@@ -9,7 +9,7 @@ shininess 0.1961
 opacity 1
 
 // Textures and properties
-diffuseTexture militaryponcho1.png
+diffuseTexture militaryponchotexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

@@ -9,7 +9,7 @@ shininess 0.7843
 opacity 1
 
 // Textures and properties
-diffuseTexture burnishedBronze1.jpeg
+diffuseTexture minoanslave1texture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

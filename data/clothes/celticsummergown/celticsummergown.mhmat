@@ -9,12 +9,13 @@ shininess 0.7843
 opacity 1
 
 // Textures and properties
+diffuseTexture celticsummergown.png
 
 // Shader programme
 shader data/shaders/glsl/phong
 
 // Configure built-in shader defines
-shaderConfig diffuse false
+shaderConfig diffuse True
 shaderConfig bump false
 shaderConfig normal  false
 shaderConfig displacement  false

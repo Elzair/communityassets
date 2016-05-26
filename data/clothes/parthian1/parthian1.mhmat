@@ -9,7 +9,7 @@ shininess 0.1882
 opacity 1
 
 // Textures and properties
-diffuseTexture parthian1.png
+diffuseTexture parthian1texture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

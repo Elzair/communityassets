@@ -6,12 +6,12 @@ uuid 9f4bdd5f-0254-4f17-a96e-3bdcfa829852
 basemesh hm08
 
 name atlantean1.001
-obj_file atlantean1.001.obj
+obj_file atlantean1.obj
 x_scale 5399 11998 1.3980
 z_scale 962 5320 1.8461
 y_scale 791 881 2.2048
 z_depth 50
-material atlantean1.001.mhmat
+material atlantean1.mhmat
 verts 0
  7595  7457  7617 1.11801 -0.08235 -0.03566 0.21719 -0.13017 0.05357
  7595  7594  7462 0.59081 0.44928 -0.04009 0.23181 -0.20357 0.00267

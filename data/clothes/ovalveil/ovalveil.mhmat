@@ -9,8 +9,7 @@ shininess 0.1961
 opacity 1
 
 // Textures and properties
-diffuseTexture ovalVeil.png
-
+diffuseTexture renaissanceovalveilwimpletexture.png
 // Shader programme
 shader data/shaders/glsl/phong
 

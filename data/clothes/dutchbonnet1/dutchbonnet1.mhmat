@@ -9,7 +9,7 @@ shininess 0.1882
 opacity 1
 
 // Textures and properties
-diffuseTexture dutchBonnet1.png
+diffuseTexture dutchbabybonnettexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

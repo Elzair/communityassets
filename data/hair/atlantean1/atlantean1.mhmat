@@ -9,7 +9,7 @@ shininess 0.1882
 opacity 1
 
 // Textures and properties
-diffuseTexture atlantean1.png
+diffuseTexture atlanteantexture1.png
 
 // Shader programme
 shader data/shaders/glsl/phong

@@ -21,7 +21,7 @@ castShadows True
 
 receiveShadows True
 
-diffuseTexture clothes/Textures_common/CollierCou.png
+diffuseTexture CollierCou.png
 
 shader shaders/glsl/phong
 

@@ -9,7 +9,7 @@ shininess 0.7765
 opacity 1
 
 // Textures and properties
-diffuseTexture brunhilde.png
+diffuseTexture brunhildetexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

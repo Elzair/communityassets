@@ -9,7 +9,7 @@ shininess 0.1882
 opacity 1
 
 // Textures and properties
-diffuseTexture highBronze2.jpg
+diffuseTexture bigdesertponchotexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

@@ -9,7 +9,7 @@ shininess 0.1961
 opacity 1
 
 // Textures and properties
-diffuseTexture streakedBlonde1.png
+diffuseTexture pigTailBraids1.png
 
 // Shader programme
 shader data/shaders/glsl/phong

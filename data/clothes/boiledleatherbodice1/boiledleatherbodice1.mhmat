@@ -9,7 +9,7 @@ shininess 0.1882
 opacity 1
 
 // Textures and properties
-diffuseTexture boiledleatherbodice1.png
+diffuseTexture boiledleatherbodicetexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

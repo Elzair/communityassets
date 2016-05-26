@@ -6,12 +6,12 @@ uuid 9e402a24-8c1d-4d6d-a50d-6f6891c4fc3b
 basemesh hm08
 
 name rondaRouseyBlondeCornRows1.001
-obj_file rondarouseyblondecornrows1.001.obj
+obj_file rondarouseyblondecornrows1.obj
 x_scale 5399 11998 1.3980
 z_scale 962 5320 1.8461
 y_scale 791 881 2.2048
 z_depth 50
-material rondarouseyblondecornrows1.001.mhmat
+material rondarouseyblondecornrows1.mhmat
 verts 0
  7041  7019 11839 0.26841 0.48836 0.24323 0.13124 0.01005 0.05426
 11843  7041  7019 0.24335 0.44445 0.31220 0.13607 0.01741 0.04747

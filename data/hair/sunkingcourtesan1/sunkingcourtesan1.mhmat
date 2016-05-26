@@ -9,7 +9,7 @@ shininess 0.7765
 opacity 1
 
 // Textures and properties
-diffuseTexture sunkingcourtesan1.png
+diffuseTexture sunkingcourtesantexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

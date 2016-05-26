@@ -9,7 +9,7 @@ shininess 0.1961
 opacity 1
 
 // Textures and properties
-diffuseTexture rondaRouseyBlondeCornRows1.png
+diffuseTexture rhondarouseyblondecornrowstexture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

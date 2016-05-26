@@ -6,12 +6,12 @@ uuid c1216cb3-4878-4224-a742-55ba2ff52cd8
 basemesh hm08
 
 name Human_a8_v74.003
-obj_file human_a8_v74.003.obj
+obj_file chainmailheaddress1.obj
 x_scale 5399 11998 1.3980
 z_scale 962 5320 1.8461
 y_scale 791 881 2.2048
 z_depth 50
-material human_a8_v74.003.mhmat
+material chainmailheaddress1.mhmat
 verts 0
  1015  7707 12153 0.81765 0.18501 -0.00265 0.01822 0.11340 0.09116
 12153  5554  1015 -0.00685 -0.02506 1.03191 0.01329 0.11218 0.08696

@@ -9,7 +9,7 @@ shininess 0.1882
 opacity 1
 
 // Textures and properties
-diffuseTexture speedswimhighcut2.png
+diffuseTexture speedswimhighcut2texture.png
 
 // Shader programme
 shader data/shaders/glsl/phong

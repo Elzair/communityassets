@@ -9,15 +9,18 @@ shininess 0.1961
 opacity 1
 
 // Textures and properties
+diffuseTexture JACKETDIFUSE.png
+normalmapTexture JACKETNORM.png
+aomapTexture JACKETAO.png
 
 // Shader programme
 shader data/shaders/glsl/phong
 
 // Configure built-in shader defines
-shaderConfig diffuse false
+shaderConfig ambientOcclusion True
+shaderConfig diffuse True
 shaderConfig bump false
-shaderConfig normal  false
+shaderConfig normal True
 shaderConfig displacement  false
 shaderConfig spec  false
 shaderConfig vertexColors false 
-diffuseTexture JACKETDIFUSE.png normalmapTexture JACKETNORM.png aomapTexture JACKETAO.png

@@ -9,7 +9,7 @@ shininess 0.1922
 opacity 1
 
 // Textures and properties
-diffuseTexture chainmailheaddress1.png
+diffuseTexture chainmailheaddress1texture.png
 
 // Shader programme
 shader data/shaders/glsl/phong
